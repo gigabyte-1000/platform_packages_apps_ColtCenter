@@ -1250,4 +1250,7 @@
     <string name="flashlight_on_call_silent">Only when ringer is silent</string>
     <string name="flashlight_on_call_always">Always</string>
 
+   <!-- Ios like clipboard access toast notification -->
+   <string name="ios_clipboard_title">iOS-like toast notification for clipboard access</string>
+
 </resources>
